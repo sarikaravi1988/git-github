@@ -4,7 +4,7 @@ pwd
 cd 
 git status 
 git branch
+git pull
 git add
 git commit -m "message"
-git pull
 git push -u origin 
